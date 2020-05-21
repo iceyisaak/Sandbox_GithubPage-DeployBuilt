@@ -6,6 +6,8 @@ source: https://www.youtube.com/watch?v=SKXkC4SqtRk
 
 ---
 
+> By installing the **gh-pages**, `gh-pages branch` is created automatically where the page will be created and hosted instantaneously.
+
 ### Steps to deploying with gh-pages
 
 1. Run `npm install gh-pages`
